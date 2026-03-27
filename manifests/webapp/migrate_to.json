@@ -9,7 +9,7 @@
           ],
           "support": {
             "chrome": {
-              "version_added": "138"
+              "version_added": "149"
             },
             "chrome_android": {
               "version_added": false
